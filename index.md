@@ -8,7 +8,7 @@ Welcome! This site contains free problem sets, solutions and explainers for
 
 ## Subjects
 
-- [Mathematics Extension 2](/ext2)
+- [Mathematics Extension 2](ext2)
 
 
 **License**
