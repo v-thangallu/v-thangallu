@@ -5,7 +5,7 @@ Welcome! Maths Extension 2 is broken down into the following topics (for both 20
 
 <details> 
   <summary>Proof</summary>
-  - [The language and notation of proof](URL_HERE)
+  - [The language and notation of proof](pdfs/ext2/proofs1.pdf)
   - [Illustrations of proofs](URL_HERE)
   - [Proof of inequalities](URL_HERE)
   - [Further Proof by Mathematical Induction](URL_HERE)
