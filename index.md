@@ -8,7 +8,7 @@ Welcome! This site contains free problem sets, solutions and explainers for
 
 ## Subjects
 
-- [Mathematics Extension 2](ext2)
+- [Mathematics Extension 2](https://v-thangallu.github.io/v-thangallu/ext2)
 
 
 **License**
