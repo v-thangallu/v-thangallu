@@ -1,5 +1,7 @@
+---
 layout: default
-title: home
+title: Home
+---
 
 # Free HSC Resources
 
