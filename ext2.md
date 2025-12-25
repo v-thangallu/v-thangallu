@@ -5,6 +5,7 @@ Welcome! Maths Extension 2 is broken down into the following topics
 
 <details> 
   <summary>Proof</summary>
+  - <a href="pdfs/ext2/proof.pdf">Proof PDF</a>
   - [The language and notation of proof](#)
   - [Illustrations of proofs](#)
   - [Proof of inequalities](#)
