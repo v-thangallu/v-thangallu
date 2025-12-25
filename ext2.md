@@ -3,13 +3,9 @@ title: Mathematics
 ---
 Welcome! Maths Extension 2 is broken down into the following topics
 
-## Proof
-## Vectors
-## Complex Numbers
-## Calculus
-## Mechanics
 
-<!-- <details> 
+
+<details> 
   <summary>Proof</summary>
   - [The language and notation of proof](#)
   - [Illustrations of proofs](#)
@@ -50,4 +46,4 @@ Welcome! Maths Extension 2 is broken down into the following topics
   - [Recilinear resisted motion](#)
   - [Vertical resisted motion](#)
   - [Projectiles and resisted motion](#)
-</details> -->
+</details>
