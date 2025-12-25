@@ -3,8 +3,6 @@ title: Mathematics
 ---
 Welcome! Maths Extension 2 is broken down into the following topics
 
-
-
 <details> 
   <summary>Proof</summary>
   - [The language and notation of proof](#)
