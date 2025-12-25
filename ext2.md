@@ -15,7 +15,7 @@ Welcome! Maths Extension 2 is broken down into the following topics (for both 20
 <details> 
   <summary>Vectors</summary>
   - [Vector equations of lines and curves](#)
-  - [Vectors and Geometry]
+  - [Vectors and Geometry](#)
 </details>
 
 <details> 
