@@ -2,7 +2,7 @@
 title: Mathematics Extension 2
 ---
 
-Welcome! Maths Extension 2 is broken down into the following topics (for both 2017 and 2024 syllabuses)
+Welcome! Maths Extension 2 is broken down into the following topics
 
 ## Proof
 ## Vectors
