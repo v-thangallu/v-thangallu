@@ -1,7 +1,6 @@
 ---
 title: Mathematics Extension 2
 ---
-
 Welcome! Maths Extension 2 is broken down into the following topics
 
 ## Proof
@@ -52,5 +51,3 @@ Welcome! Maths Extension 2 is broken down into the following topics
   - [Vertical resisted motion](#)
   - [Projectiles and resisted motion](#)
 </details> -->
-
-
