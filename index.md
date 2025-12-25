@@ -1,15 +1,14 @@
 ---
-layout: default
 title: Home
 ---
 
 # Free HSC Resources
 
-Welcome! This site contains free poblem sets, solutions and explainers for
+Welcome! This site contains free problem sets, solutions and explainers for
 
 ## Subjects
 
-- [Mathematics Extension 2](ext2.md)
+- [Mathematics Extension 2](/ext2)
 
 
 **License**
