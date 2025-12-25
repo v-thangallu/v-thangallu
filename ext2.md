@@ -1,5 +1,5 @@
 ---
-title: Mathematics Extension 2
+title: Mathematics
 ---
 Welcome! Maths Extension 2 is broken down into the following topics
 
