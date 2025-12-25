@@ -4,7 +4,13 @@ title: Mathematics Extension 2
 
 Welcome! Maths Extension 2 is broken down into the following topics (for both 2017 and 2024 syllabuses)
 
-<details> 
+## Proof
+## Vectors
+## Complex Numbers
+## Calculus
+## Mechanics
+
+<!-- <details> 
   <summary>Proof</summary>
   - [The language and notation of proof](#)
   - [Illustrations of proofs](#)
@@ -45,6 +51,6 @@ Welcome! Maths Extension 2 is broken down into the following topics (for both 20
   - [Recilinear resisted motion](#)
   - [Vertical resisted motion](#)
   - [Projectiles and resisted motion](#)
-</details>
+</details> -->
 
 
