@@ -46,3 +46,7 @@ Welcome! Maths Extension 2 is broken down into the following topics
   - [Vertical resisted motion](#)
   - [Projectiles and resisted motion](#)
 </details>
+
+Note: The 2017 and 2024 syllabus is mostly the same so the content created would be applicable for everyone. 
+Key differences lie in the Vector topic, where 3D vectors is moved from Ext 2 to Ext 1 Maths in the 2024 syllabus, and vector proofs is now omitted from Ext 2. 
+As such, problems for the 2017 syllabus covering 3D vectors and vector proofs will be completed at a later stage if requested. 
